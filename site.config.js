@@ -3,11 +3,11 @@ const CONFIG = {
   profile: {
     name: "DJ",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "큰 사람, 찍사, 개발자, 집돌이",
+    role: "큰 사람, 개발자, 집돌이",
     bio: "ISTP가 되고싶은 ENFJ",
     email: "djlesque@gmail.com",
-    // linkedin: "",
-    // github: "",
+    linkedin: "",
+    github: "",
     instagram: "https://www.instagram.com/djlesque/",
   },
   projects: [
