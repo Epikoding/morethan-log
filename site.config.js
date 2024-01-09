@@ -4,7 +4,7 @@ const CONFIG = {
     name: "DJ",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "큰 사람, 찍사, 개발자, 집돌이",
-    bio: "나는 오늘도 어제를 그리워 할 것이다.",
+    bio: "ISTP가 되고싶은 ENFJ",
     email: "djlesque@gmail.com",
     linkedin: "",
     github: "",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "ENFDJ",
-    description: "ISTP가 되고싶은 ENFJ",
+    description: "나는 분명 내일도 어제를 그리워 할 것이다.",
   },
 
   // CONFIG configration (required)
